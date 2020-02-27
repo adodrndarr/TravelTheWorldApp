@@ -1,0 +1,19 @@
+table{
+    display: none;
+}
+nav{
+    background-color: #e3f2fd !important;
+}
+#name{
+    border: 2px solid green;        
+}
+#population{
+    border: 2px solid green;        
+}
+#area{
+    border: 2px solid green;        
+}
+
+
+
+
